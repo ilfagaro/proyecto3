@@ -3,7 +3,7 @@ import UserList from "../components/UserList";
 function UserListView(){
     return(
         
-        <UserListView/>
+        <UserList/>
     )
 }
 
