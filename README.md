@@ -38,9 +38,16 @@ Extras:
 Herramientas
 
 ● Visual Studio Code.
+
 ● Tecnologías mínimas obligatorias: HTML, CSS, Javascript, React, Git, Axios/Fetch, Json Server
+
 ● Recursos extra que se investiguen o que hayan sido presentados en píldoras
+
 ● GIT
-● Tablero Trello.
+
+● Tablero Trello
+
 Integrante:
+
+
 https://github.com/ilfagaro/proyecto3.git
