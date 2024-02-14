@@ -28,14 +28,14 @@ Teléfono
 
 -Validaciones en los campos del formulario
 
-Extras:
+## Extras:
 -Que se puedan eliminar registros
 -Que se puedan editar registros
 -Readme
 -Animaciones JS / CSS
 -Mensajes con Sweet Alert 2 (advertencia, información, error, etc)
 
-Herramientas
+## Herramientas
 
 ● Visual Studio Code.
 
@@ -48,6 +48,4 @@ Herramientas
 ● Tablero Trello
 
 Integrante:
-
-
-https://github.com/ilfagaro/proyecto3.git
+-[Faby](https://github.com/ilfagaro/proyecto3.git "GitHub de Faby Gaona")
